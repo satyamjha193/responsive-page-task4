@@ -1,5 +1,7 @@
 # 📱 Task 4: Make a Website Mobile-Friendly Using CSS Media Queries
 
+🔗 **Live Preview**: [View Site](https://satyamjha193.github.io/responsive-page-task4/)
+
 ## 🎯 Objective
 
 Convert an existing desktop-only webpage into a **mobile-friendly layout** using **CSS media queries** to improve usability on smaller screens.
@@ -47,4 +49,4 @@ Convert an existing desktop-only webpage into a **mobile-friendly layout** using
 - CSS `@media` Queries  
 - Mobile-first design principles  
 - Flexible images & containers  
-- Responsive layout techniques  
+- Responsive layout techniques
